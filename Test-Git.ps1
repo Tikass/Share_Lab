@@ -3,3 +3,5 @@
 Get-ChildItem -Path $element -Recurse -Directory | Get-NTFSAccess
 
 Write-Host
+
+Modif JJO
